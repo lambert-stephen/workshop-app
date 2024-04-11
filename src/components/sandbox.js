@@ -1,7 +1,7 @@
 import React from "react";
 import { useParams } from "react-router-dom";
 import styled from "styled-components";
-import { ExternalLink } from "@styled-icons/heroicons-outline/ExternalLink";
+import { ExternalLink as _ExternalLink } from "@styled-icons/heroicons-outline/ExternalLink";
 import useDocumentTitle from "../hooks/useDocumentTitle";
 import useLocalStorage from "../hooks/useLocalStorage";
 
